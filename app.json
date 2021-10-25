@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "my-rn-project",
+    "slug": "my-rn-project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "my.project"
+    }
+  },
+  "name": "my-rn-project"
+}
